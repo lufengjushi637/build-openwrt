@@ -81,7 +81,7 @@ on:
           - s922x-ugoos-am6
           - s922x-ct2000
           - s905x3
-          - s905x3-hk1
+          - s905x4-hk1
           - s905x3-x96max
           - s905x3-h96max
           - s905x3-ugoosx3
